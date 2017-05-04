@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+EscapeTutorial/Content/StarterContent/Architecture/Floor_400x400.uasset
+
+#================================
+# Unreal Engine Generated Files
+#================================
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*/Content/StarterContent
+
+#================================
+# Visual Studio Generated Files
+#================================
+*.VS.db
+
+
